@@ -1,0 +1,17 @@
+#samllimg {
+    font-size: 10px;
+    margin-top: 10%;
+}
+#bigimg {
+  margin-top: 5%;
+}
+#bigimg img {
+  width: 100%;
+}
+#categoriename{
+  margin-top: 10%;
+}
+
+#bigimg div.col-6{
+  padding-left: 0px;
+}
